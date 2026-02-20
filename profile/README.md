@@ -1,12 +1,12 @@
 <!-- PulbSoftware Organization Profile README -->
 <div align="center">
+  <!-- ✅ Put your logo file at: .github/profile/assets/pulbsoftware-logo.png -->
+  <img src="./assets/pulbsoftware-full-logo.png" alt="PulbSoftware" width="220" />
 
-# PulbSoftware
-
-**AI-first mobile apps — built fast, shipped clean, and designed for real users.**
-
-We build mobile products that use AI to deliver measurable value: smarter workflows, better personalization, and delightful UX.
-
+  <p><strong>AI-first mobile apps — shipped clean, built for real users.</strong></p>
+  <p>
+    We build mobile products powered by AI: smarter workflows, better personalization, and delightful UX.
+  </p>
 </div>
 
 ---
@@ -24,18 +24,38 @@ We build mobile products that use AI to deliver measurable value: smarter workfl
 - Automation & productivity workflows
 - Safety, privacy, and responsible AI
 
+## Co-founders
+<table>
+  <tr>
+    <td align="center" width="220">
+      <a href="https://github.com/OmerFarukMerey">
+        <img src="https://github.com/OmerFarukMerey.png?size=200" width="110" height="110" style="border-radius: 50%;" alt="Ömer Faruk Merey"/>
+      </a>
+      <br/>
+      <strong>Ömer Faruk Merey</strong>
+      <br/>
+      <a href="https://github.com/OmerFarukMerey">@OmerFarukMerey</a>
+    </td>
+    <td align="center" width="220">
+      <a href="https://github.com/karamanemre">
+        <img src="https://github.com/karamanemre.png?size=200" width="110" height="110" style="border-radius: 50%;" alt="Emre Karaman"/>
+      </a>
+      <br/>
+      <strong>Emre Karaman</strong>
+      <br/>
+      <a href="https://github.com/karamanemre">@karamanemre</a>
+    </td>
+  </tr>
+</table>
+
 ## Engineering principles
 - **Product-first:** solve user problems, not just “add AI”
 - **Quality:** clean code, tests, CI, and clear ownership
 - **Performance:** fast UI, predictable latency, scalable APIs
 - **Security & privacy:** least privilege, safe data handling, sensible defaults
 
-## Co-founders
-- **Ömer Faruk Merey** — https://github.com/OmerFarukMerey
-- **Emre Karaman** — https://github.com/karamanemre
-
 ## Working with us
-- Use **Issues** for bugs & feature requests (include steps + expected behavior)
+- Use **Issues** for bugs & feature requests (steps + expected behavior)
 - Use **Pull Requests** for contributions (small, focused PRs preferred)
 - If enabled, use **Discussions** for ideas, Q&A, and roadmap topics
 
@@ -48,7 +68,6 @@ Pin your key repos on the org page:
 
 ## Contact
 - GitHub: open an Issue or Discussion
-
----
+- Partnerships: *(add email / website when ready)*
 
 <sub>© PulbSoftware — building AI mobile experiences with care.</sub>
