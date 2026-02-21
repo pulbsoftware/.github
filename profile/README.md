@@ -68,6 +68,5 @@ Pin your key repos on the org page:
 
 ## Contact
 - GitHub: open an Issue or Discussion
-- Partnerships: *(add email / website when ready)*
 
 <sub>© PulbSoftware — building AI mobile experiences with care.</sub>
