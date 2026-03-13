@@ -1,7 +1,7 @@
 <!-- PulbSoftware Organization Profile README -->
 <div align="center">
   <!-- ✅ Put your logo file at: .github/profile/assets/pulbsoftware-logo.png -->
-  <img src="./assets/pulbsoftware-full-logo.png" alt="PulbSoftware" width="220" />
+  <img src="./assets/major_whiteONblack.png" alt="PulbSoftware" width="220" />
 
   <p><strong>AI-first mobile apps — shipped clean, built for real users.</strong></p>
   <p>
